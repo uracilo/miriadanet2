@@ -1,0 +1,29 @@
+body{
+	color: white;
+	margin: 0px;
+	padding: 0px;
+}
+
+#elephant{
+    background-image: url(img/EDA_0114.568.jpg);
+    height: 41vh;
+    width: 185vh;
+    margin-top: 0px;
+    z-index: 3;
+}
+
+.color{
+	background-color: black;
+	height: 100vh;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.rightAlign{
+	text-align: right;
+}
+
+h1{
+	font-family: 'Chelsea Market', cursive;
+
+}
